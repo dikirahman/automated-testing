@@ -1,0 +1,17 @@
+{
+  "name": "automation-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^27.0.2",
+    "jest": "^27.2.2"
+  },
+  "dependencies": {}
+}
