@@ -13,5 +13,7 @@
     "@types/jest": "^27.0.2",
     "jest": "^27.2.2"
   },
-  "dependencies": {}
+  "dependencies": {
+    "@hapi/hapi": "^20.2.0"
+  }
 }
